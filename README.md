@@ -34,7 +34,8 @@ https://drive.google.com/file/d/1HJMHt7UkPt-dEGGJY_j5z1gxDJlSVmDO/view
 
 -The following video shows GET routes to return a single user and a single thought and POST, PUT, and DELETE routes for users  being tested in Insomnia:
 
-https://drive.google.com/file/d/1lbLeBLEccjWENjkd9c1GoTc0flB3cGnY/view 
+
+https://drive.google.com/file/d/1xp6mPMMLCuMkwCblHqPaJHQqpWhJTUfX/view
 
 - In addition to this, your walkthrough video should show the POST, PUT, DELETE routes for thoughts and POST and DELETE routes for a user's friend list being tested in Insomnia:  
 
